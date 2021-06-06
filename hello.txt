@@ -14,5 +14,7 @@ Hello,World!
 jdsnckjdncsdcd
 scaklscnalsk
 ascklasnc
+<<<<<<< HEAD
 123245342324sdsacsa master
 sad master
+sad hot-fix test
